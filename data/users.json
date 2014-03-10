@@ -1,0 +1,12 @@
+/*{
+	"users":[
+	    {"username": "claire", "password": "secret"},
+    	{"username": "emmet", "password": "secret"}
+	]
+}
+*/
+[
+	{"username": "claire", "password": "secret"},
+    {"username": "emmet", "password": "secret"},
+    {"username": "joe", "password": "secret"}
+]
